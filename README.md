@@ -5,7 +5,7 @@
  </p>
 
 <p align="left">
-  :computer: Right now I'm majoring in system analysis and development
+  :computer: Right now I'm majoring in System Analysis and Development
 </p>
 
 <p align="left">
