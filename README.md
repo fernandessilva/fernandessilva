@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  :mailbox_with_mail: You can reach me here ⤵️
+  :mailbox_with_mail: You can reach me here:
 </p>
 
 <p align="left">
