@@ -20,6 +20,6 @@
   <a href="mailto: tech.lucas.fernandes@proton.me" alt="Gmail">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 
-  <a href="https://www.linkedin.com/in/lucass-f/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/lucass-f/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>  
