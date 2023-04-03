@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-:eyeglasses: I'm very interested in learning new languages, coding, math, videogames and boardgames
+:eyeglasses: I'm very interested in linguistics, coding, math, videogames and boardgames
 </p>
 
 <p align="left">
