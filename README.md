@@ -5,7 +5,7 @@
  </p>
 
 <p align="left">
-  :computer: Right now I'm majoring in System Analysis and Development
+  :computer: Right now I'm majoring in System Analysis and Development. I'm currently working as a trainee full-stack developer at <a href="https://www.radixeng.com.br/" alt="Radix website" target="_blank"/>Radix
 </p>
 
 <p align="left">
